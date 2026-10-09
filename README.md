@@ -1,3 +1,2 @@
 ## Hi, I'm Stephan
-
-## Bachelor of Computing Student | Aspiring Software Engineer 
+Bachelor of Computing Student | Aspiring Software Engineer 
